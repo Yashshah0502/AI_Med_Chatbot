@@ -1,0 +1,17 @@
+# Ignore virtual environment
+myenv/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.cpython*
+
+# IDE or system files
+.vscode/
+.DS_Store
+
+# Ignore model artifacts
+*.bin
+*.pt
+*.pkl
