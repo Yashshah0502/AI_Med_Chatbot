@@ -24,7 +24,7 @@ AI MediBot is an open-source, retrieval-augmented chatbot designed to answer med
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-medibot.git
+git clone https://github.com/Yashshah0502/ai-medibot.git
 cd ai-medibot
 ```
 
